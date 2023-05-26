@@ -1,1 +1,1 @@
-I love ALX style of learning
+This project is about github commands
